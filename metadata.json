@@ -1,0 +1,5 @@
+{
+  "name": "Vedic AI Assistant",
+  "description": "A spiritual AI guide for astrology, daily horoscopes (Rashifal), and Vedic wisdom.",
+  "requestFramePermissions": ["microphone"]
+}
